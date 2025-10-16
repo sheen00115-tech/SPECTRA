@@ -1,6 +1,6 @@
 # inventory.py
 
-inventory = {}
+inventory = {new item}
 
 def add_item():
     name = input("Enter item name: ").strip()
