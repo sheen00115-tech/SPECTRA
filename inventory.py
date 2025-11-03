@@ -1,6 +1,6 @@
 # inventory.py
 
-inventory = {"1":"buy fruits","2":"buy clothes","3":"buy sugar"}
+inventory = {"1":"buy fruits","2":"buy clothes"}
 
 def add_item():
     name = input("Enter item name: ").strip()
